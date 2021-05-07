@@ -9,4 +9,3 @@ Todas as mudanças significativas serão documentadas neste arquivo.a
 - Movimentação da Cobra
 - Geração de Comida
 - Crescimento da Cobra
--teste
