@@ -1,7 +1,7 @@
 {
   "name": "snake-game",
   "version": "0.1.0",
-  "author": "Rodrigo Pasini de Souza",
+  "author": "Rodrigo Pasini de Souza <rodr@gmail.com>",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
